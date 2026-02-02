@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafin Rahman
 
-<!--
-**rafinrahmanchy/rafinrahmanchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **programmer**, **security enthusiast**, and **blogger** focused on cybersecurity. I’m interested in understanding how systems and humans can be exploited — ethically — and how to defend against those attacks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Security Interests
+- Bug Bounty Hunting
+- Penetration Testing
+- Application Security (AppSec)
+- Web Security
+- Social Engineering
+- Vulnerability Research
+
+---
+
+## 🏆 Honors & Certifications
+- **Bug Bounty Hunting and Penetration Testing v1** — Hacktify Cyber Security  
+- **Bug Bounty Hunting and Penetration Testing v2** — Hacktify Cyber Security School  
+- **Certified AppSec Practitioner (CAP)** — The SecOps Group  
+- **Web Fundamentals Learning Path** — TryHackMe  
+- **Competitive Programmer / Problem Solver** — Outsbook  
+- **Regional Winner** — National High School Programming Contest (NHSPC)
+
+---
+
+## ✍️ Security Blog
+I write exclusively about cybersecurity on Medium:  
+🔗 **https://rafinrahmanchy.medium.com**
+
+Topics include:
+- Web & application security
+- Bug bounty concepts
+- Social engineering techniques & awareness
+- Security learning experiences
+
+---
+
+> _Hack ethically. Think critically. Secure responsibly._
