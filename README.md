@@ -15,7 +15,7 @@ I’m a **programmer**, **security enthusiast**, and **blogger** focused on cybe
 ---
 
 ## 🏆 Honors & Certifications
-- **Bug Bounty Hunting and Penetration Testing v1** — Hacktify Cyber Security  
+- **Bug Bounty Hunting and Penetration Testing v1** — Hacktify Cyber Security School
 - **Bug Bounty Hunting and Penetration Testing v2** — Hacktify Cyber Security School  
 - **Certified AppSec Practitioner (CAP)** — The SecOps Group  
 - **Web Fundamentals Learning Path** — TryHackMe  
@@ -28,12 +28,5 @@ I’m a **programmer**, **security enthusiast**, and **blogger** focused on cybe
 I write exclusively about cybersecurity on Medium:  
 🔗 **https://rafinrahmanchy.medium.com**
 
-Topics include:
-- Web & application security
-- Bug bounty concepts
-- Social engineering techniques & awareness
-- Security learning experiences
-
----
 
 > _Hack ethically. Think critically. Secure responsibly._
